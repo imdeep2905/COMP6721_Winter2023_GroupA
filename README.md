@@ -70,7 +70,7 @@ Please make sure to change the path pointing to the dataset accordingly.
 
 ## Using a Pretrained Model
 
-We have uploaded some of the models we trained. This pretrained models can be used to observe our model's performance without having to train them from the beginning. We have also uploaded some notebooks demonstrating this in [this](https://github.com/imdeep2905/COMP6721_Winter2023_GroupA/blob/main/sample_dataset/pretrained/) folder. You can run any of the notebooks to see our models in action!
+We have uploaded some of the models we trained. This pretrained models can be used to observe our model's performance without having to train them from the beginning. We have also uploaded some notebooks demonstrating this in [this](https://github.com/imdeep2905/COMP6721_Winter2023_GroupA/blob/main/sample_dataset/pretrained/) folder. You can run any of the notebooks to see our models in action (both on the dataset and images from the internet)!
 
 # Acknowledgment
 
