@@ -1,6 +1,6 @@
 # COMP6721-Winter2023-GroupA
 
-*This repo contains `.pth` model files so it may be large in the size. To download the project we recommend using [this](https://github.com/imdeep2905/COMP6721_Winter2023_GroupA/archive/refs/heads/main.zip) link. This only downloads the latest version of the repo (and not the git history).* 
+*This repo contains `.pth` model files so it may be large in the size. To download the project we recommend using [this](https://github.com/imdeep2905/COMP6721_Winter2023_GroupA/archive/refs/heads/main.zip) link (~130MB). This only downloads the latest version of the repo (and not the git history).* 
 
 # Contents
 
