@@ -1,5 +1,7 @@
 # COMP6721-Winter2023-GroupA
 
+*This repo contains `.pth` model files so it may be large in the size. To download the project we recommend using [this](https://github.com/imdeep2905/COMP6721_Winter2023_GroupA/archive/refs/heads/main.zip) link (~130MB). This only downloads the latest version of the repo (and not the git history).* 
+
 # Contents
 
 1. [Introduction](#Introduction)
@@ -68,7 +70,7 @@ Please make sure to change the path pointing to the dataset accordingly.
 
 ## Using a Pretrained Model
 
-We have uploaded some of the models we trained. This pretrained models can be used to observe our model's performance without having to train them from the beginning. We have also uploaded some notebooks demonstrating this in [this](https://github.com/imdeep2905/COMP6721_Winter2023_GroupA/blob/main/sample_dataset/pretrained/) folder. You can run any of the notebooks to see our models in action!
+We have uploaded some of the models we trained. This pretrained models can be used to observe our model's performance without having to train them from the beginning. We have also uploaded some notebooks demonstrating this in [this](https://github.com/imdeep2905/COMP6721_Winter2023_GroupA/blob/main/sample_dataset/pretrained/) folder. You can run any of the notebooks to see our models in action (both on the dataset and images from the internet)!
 
 # Acknowledgment
 
