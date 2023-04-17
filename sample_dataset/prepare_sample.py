@@ -2,9 +2,9 @@ import os
 import shutil
 import random
 
-DATASET_PATH = "../dataset/processed/"
-SAMPLE_DATASET_PATH = "./awa2/"
-CLASSES = ['antelope', 'cow', 'deer', 'elephant', 'giraffe', 'horse', 'lion', 'rabbit', 'sheep', 'squirrel', 'zebra']
+DATASET_PATH = "./dataset1/"
+SAMPLE_DATASET_PATH = "./animal_faces/"
+CLASSES = ['cat', 'dog', 'wild']
 
 
 for type_ in ["train", "test", "val"]:
@@ -13,6 +13,6 @@ for type_ in ["train", "test", "val"]:
         dest = os.path.join(SAMPLE_DATASET_PATH , type_, class_)
         os.makedirs(dest, exist_ok=True)
         files = os.listdir(src)
-        for _ in range(3):
+        for _ in range(15):
             file = random.choice(files)
             shutil.copy(os.path.join(src, file), os.path.join(dest, file))
